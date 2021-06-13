@@ -1,0 +1,19 @@
+﻿{
+    "database": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "",
+        "database": "node"
+    },
+    "secret": "9c2d0704-ec2f-44a5-9e3f-314b1f590b6e",
+    "emailFrom": "ponika.info@gmail.com",
+    "smtpOptions": {
+        "host": "smtp.gmail.com",
+        "port": 587,
+        "auth": {
+            "user": "ponika.info@gmail.com",
+            "pass": "mortezamin"
+        }
+    }
+}
